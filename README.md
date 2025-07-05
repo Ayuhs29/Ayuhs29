@@ -1,8 +1,9 @@
 
 
 <h1 align="center">
-  Ayush Kumar Singh
+  <img src="https://github.com/Ayuhs29/Ayuhs29/blob/main/Vanilla%401x-3.0s-231px-69px%20(1).gif?raw=true" width="400"/>
 </h1>
+
 <h2 align="center">
 <picture>
   <source
